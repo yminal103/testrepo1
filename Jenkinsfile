@@ -21,7 +21,7 @@ pipeline {
     agent any
 
     environment {
-        PYTHON_VERSION = 'puthon3'
+        PYTHON_VERSION = 'python3'
     }
 
     stages {
